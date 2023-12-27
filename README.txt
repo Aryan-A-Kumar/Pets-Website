@@ -1,0 +1,2 @@
+Website displaying pets available at a pet store in the form of interactive cards, with an adopt button leading to a descriptive webpage 
+with filters for different species of pets. Built using html css and javascript. The data about pets is collected from a json file.
